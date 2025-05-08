@@ -1,4 +1,4 @@
-# SecureAccess (local_secureaccess)
+# SecureExamAccess (local_secureaccess)
 
 SecureAccess is a Moodle local plugin that restricts access to exams or activities based on IP address and device identification. It provides administrators and teachers with enhanced control over where and how users can access sensitive content, such as exams or assessments.
 
